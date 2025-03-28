@@ -1,23 +1,23 @@
----
+﻿---
 location:
-  - 6.5
-  - 4
+- 6.5
+- 4
 type: geo-Region
 title: Lagos
-license: CC BY-SA 4.0
-source: https://datahub.io/core/country-codes
+license: "CC BY-SA 4.0"
+source: "https://datahub.io/core/country-codes"
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
 tags:
-  - geo/Country/Region
+- geo/Country/Region
 aliases:
-  - Lagos
+- Lagos
 Languages:
-  - de
+- de
 cssclasses:
-  - geo-Region
+- geo-Region
 publish: true
 linkTitle: 
 keywords: 
@@ -25,80 +25,80 @@ layout:
 publishDate: 
 expiryDate: 
 has_id_wikidata: Q8673
-GitHub topic: lagos
-Libris-URI: xv8b92dg242tzn3
+GitHub_topic: lagos
+Libris_URI: xv8b92dg242tzn3
 demonym:
-  - Lagosian
-  - Lagotien
-  - Lagotienne
-coordinate location: Point(3.4 6.45)
-twinned administrative body:
-  - "[[/_Standards/WikiData/WD~Jaipur,66485]]"
-  - "[[/_Standards/WikiData/WD~Gary,184116]]"
-  - "[[/_Standards/WikiData/WD~Ra'anana,309164]]"
-  - "[[/_Standards/WikiData/WD~Montego Bay,637555]]"
-  - "[[/_Standards/WikiData/WD~Newcastle upon Tyne,1425428]]"
-  - "[[/_Standards/WikiData/WD~Ancient Olympia Municipality,3252409]]"
-  - "[[/_Standards/WikiData/WD~Istanbul,406]]"
-  - "[[/_Standards/WikiData/WD~Tbilisi,994]]"
-  - "[[/_Standards/WikiData/WD~Taipei,1867]]"
-  - "[[/_Standards/WikiData/WD~Nuremberg,2090]]"
-  - "[[/_Standards/WikiData/WD~Maputo,3889]]"
-  - "[[/_Standards/WikiData/WD~Toulouse,7880]]"
-  - "[[/_Standards/WikiData/WD~Rio de Janeiro,8678]]"
-  - "[[/_Standards/WikiData/WD~Bucharest,19660]]"
-  - "[[/_Standards/WikiData/WD~Atlanta,23556]]"
-  - "[[/_Standards/WikiData/WD~Fukuoka,26600]]"
-  - "[[/_Standards/WikiData/WD~Cairo,85]]"
-  - "[[/_Standards/WikiData/WD~City of Brussels,239]]"
-  - "[[/_Standards/WikiData/WD~Salzburg,34713]]"
-  - "[[/_Standards/WikiData/WD~Port of Spain,39178]]"
-  - "[[/_Standards/WikiData/WD~Belo Horizonte,42800]]"
-  - "[[/_Standards/WikiData/WD~Cotonou,43595]]"
-instance of:
-  - "[[/_Standards/WikiData/WD~megacity,174844]]"
-  - "[[/_Standards/WikiData/WD~big city,1549591]]"
-  - "[[/_Standards/WikiData/WD~metropolitan area,1907114]]"
-  - "[[/_Standards/WikiData/WD~port settlement,2264924]]"
-  - "[[/_Standards/WikiData/WD~former national capital,129268952]]"
-  - "[[/_Standards/WikiData/WD~city,515]]"
-located in the administrative territorial entity: "[[/_Standards/WikiData/WD~Lagos State,815913]]"
-different from: "[[/_Standards/WikiData/WD~Lagos,820969]]"
-described by source:
-  - "[[/_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[/_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[/_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
-capital of:
-  - "[[/_Standards/WikiData/WD~Colonial Nigeria,2046345]]"
-  - "[[/_Standards/WikiData/WD~Southern Nigeria Protectorate,2062030]]"
-  - "[[/_Standards/WikiData/WD~First Nigerian Republic,3511905]]"
-  - "[[/_Standards/WikiData/WD~Federation of Nigeria,5440850]]"
-  - "[[/_Standards/WikiData/WD~Nigeria,1033]]"
-head of government:
-  - "[[/_Standards/WikiData/WD~Rilwan Akiolu,20090080]]"
-  - "[[/_Standards/WikiData/WD~Babajide Sanwo-Olu,56678515]]"
-inception: 1472-01-01T00:00:00Z
-image: http://commons.wikimedia.org/wiki/Special:FilePath/5th%20Avenue%20Road%2C%20Egbeda%2C%20Lagos.jpg
-UN/LOCODE: NGLOS
-flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Lagos%20State%20Flag%20%281967-1970%29.svg
-country: "[[/_Standards/WikiData/WD~Nigeria,1033]]"
-official language: "[[/_Standards/WikiData/WD~English,1860]]"
-located in time zone: "[[/_Standards/WikiData/WD~UTC+01_00,6655]]"
-elevation above sea level: 34
+- Lagosian
+- Lagotien
+- Lagotienne
+coordinate_location: "Point(3.4 6.45)"
+twinned_administrative_body:
+- '[[/_Standards/WikiData/WD~Jaipur,66485]]'
+- '[[/_Standards/WikiData/WD~Gary,184116]]'
+- "[[/_Standards/WikiData/WD~Ra'anana,309164]]"
+- "[[/_Standards/WikiData/WD~Montego Bay,637555]]"
+- "[[/_Standards/WikiData/WD~Newcastle upon Tyne,1425428]]"
+- "[[/_Standards/WikiData/WD~Ancient Olympia Municipality,3252409]]"
+- '[[/_Standards/WikiData/WD~Istanbul,406]]'
+- '[[/_Standards/WikiData/WD~Tbilisi,994]]'
+- '[[/_Standards/WikiData/WD~Taipei,1867]]'
+- '[[/_Standards/WikiData/WD~Nuremberg,2090]]'
+- '[[/_Standards/WikiData/WD~Maputo,3889]]'
+- '[[/_Standards/WikiData/WD~Toulouse,7880]]'
+- "[[/_Standards/WikiData/WD~Rio de Janeiro,8678]]"
+- '[[/_Standards/WikiData/WD~Bucharest,19660]]'
+- '[[/_Standards/WikiData/WD~Atlanta,23556]]'
+- '[[/_Standards/WikiData/WD~Fukuoka,26600]]'
+- '[[/_Standards/WikiData/WD~Cairo,85]]'
+- "[[/_Standards/WikiData/WD~City of Brussels,239]]"
+- '[[/_Standards/WikiData/WD~Salzburg,34713]]'
+- "[[/_Standards/WikiData/WD~Port of Spain,39178]]"
+- "[[/_Standards/WikiData/WD~Belo Horizonte,42800]]"
+- '[[/_Standards/WikiData/WD~Cotonou,43595]]'
+instance_of:
+- '[[/_Standards/WikiData/WD~megacity,174844]]'
+- "[[/_Standards/WikiData/WD~big city,1549591]]"
+- "[[/_Standards/WikiData/WD~metropolitan area,1907114]]"
+- "[[/_Standards/WikiData/WD~port settlement,2264924]]"
+- "[[/_Standards/WikiData/WD~former national capital,129268952]]"
+- '[[/_Standards/WikiData/WD~city,515]]'
+located_in_the_administrative_territorial_entity: "[[/_Standards/WikiData/WD~Lagos State,815913]]"
+different_from: '[[/_Standards/WikiData/WD~Lagos,820969]]'
+described_by_source:
+- "[[/_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[/_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[/_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+capital_of:
+- "[[/_Standards/WikiData/WD~Colonial Nigeria,2046345]]"
+- "[[/_Standards/WikiData/WD~Southern Nigeria Protectorate,2062030]]"
+- "[[/_Standards/WikiData/WD~First Nigerian Republic,3511905]]"
+- "[[/_Standards/WikiData/WD~Federation of Nigeria,5440850]]"
+- '[[/_Standards/WikiData/WD~Nigeria,1033]]'
+head_of_government:
+- "[[/_Standards/WikiData/WD~Rilwan Akiolu,20090080]]"
+- "[[/_Standards/WikiData/WD~Babajide Sanwo-Olu,56678515]]"
+inception: "1472-01-01T00:00:00Z"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/5th%20Avenue%20Road%2C%20Egbeda%2C%20Lagos.jpg"
+UN_LOCODE: NGLOS
+flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Lagos%20State%20Flag%20%281967-1970%29.svg"
+country: '[[/_Standards/WikiData/WD~Nigeria,1033]]'
+official_language: '[[/_Standards/WikiData/WD~English,1860]]'
+located_in_time_zone: '[[/_Standards/WikiData/WD~UTC+01_00,6655]]'
+elevation_above_sea_level: 34
 population: 15070000
 area: 1171.28
-native label: Lagos
-official name: Lagos
-Commons gallery: Lagos, Nigeria
-Commons category: Lagos, Nigeria
-OmegaWiki Defined Meaning: "535581"
+native_label: Lagos
+official_name: Lagos
+Commons_gallery: "Lagos, Nigeria"
+Commons_category: "Lagos, Nigeria"
+OmegaWiki_Defined_Meaning: 535581
 hashtag: Lagos
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Lagos%20page%20banner.jpg
-seal image: http://commons.wikimedia.org/wiki/Special:FilePath/Lagos%20Seal.png
-coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Lagos%20Seal.png
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Location%20of%20Lagos.png
-official website: http://www.lagosstate.gov.ng/
-U.S. National Archives Identifier: "10044436"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Lagos%20page%20banner.jpg"
+seal_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Lagos%20Seal.png"
+coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Lagos%20Seal.png"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Location%20of%20Lagos.png"
+official_website: "http://www.lagosstate.gov.ng/"
+U_S_National_Archives_Identifier: 10044436
 ---
 
 # [[Lagos]] 
