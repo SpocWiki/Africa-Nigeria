@@ -36,47 +36,47 @@ twinned_administrative_body:
 - '[[/_Standards/WikiData/WD~Jaipur,66485]]'
 - '[[/_Standards/WikiData/WD~Gary,184116]]'
 - "[[/_Standards/WikiData/WD~Ra'anana,309164]]"
-- "[[/_Standards/WikiData/WD~Montego Bay,637555]]"
-- "[[/_Standards/WikiData/WD~Newcastle upon Tyne,1425428]]"
-- "[[/_Standards/WikiData/WD~Ancient Olympia Municipality,3252409]]"
+- "[[/_Standards/WikiData/WD~Montego_Bay,637555]]"
+- "[[/_Standards/WikiData/WD~Newcastle_upon_Tyne,1425428]]"
+- "[[/_Standards/WikiData/WD~Ancient_Olympia_Municipality,3252409]]"
 - '[[/_Standards/WikiData/WD~Istanbul,406]]'
 - '[[/_Standards/WikiData/WD~Tbilisi,994]]'
 - '[[/_Standards/WikiData/WD~Taipei,1867]]'
 - '[[/_Standards/WikiData/WD~Nuremberg,2090]]'
 - '[[/_Standards/WikiData/WD~Maputo,3889]]'
 - '[[/_Standards/WikiData/WD~Toulouse,7880]]'
-- "[[/_Standards/WikiData/WD~Rio de Janeiro,8678]]"
+- "[[/_Standards/WikiData/WD~Rio_de_Janeiro,8678]]"
 - '[[/_Standards/WikiData/WD~Bucharest,19660]]'
 - '[[/_Standards/WikiData/WD~Atlanta,23556]]'
 - '[[/_Standards/WikiData/WD~Fukuoka,26600]]'
 - '[[/_Standards/WikiData/WD~Cairo,85]]'
-- "[[/_Standards/WikiData/WD~City of Brussels,239]]"
+- "[[/_Standards/WikiData/WD~City_of_Brussels,239]]"
 - '[[/_Standards/WikiData/WD~Salzburg,34713]]'
-- "[[/_Standards/WikiData/WD~Port of Spain,39178]]"
-- "[[/_Standards/WikiData/WD~Belo Horizonte,42800]]"
+- "[[/_Standards/WikiData/WD~Port_of_Spain,39178]]"
+- "[[/_Standards/WikiData/WD~Belo_Horizonte,42800]]"
 - '[[/_Standards/WikiData/WD~Cotonou,43595]]'
 instance_of:
 - '[[/_Standards/WikiData/WD~megacity,174844]]'
-- "[[/_Standards/WikiData/WD~big city,1549591]]"
-- "[[/_Standards/WikiData/WD~metropolitan area,1907114]]"
-- "[[/_Standards/WikiData/WD~port settlement,2264924]]"
-- "[[/_Standards/WikiData/WD~former national capital,129268952]]"
+- "[[/_Standards/WikiData/WD~big_city,1549591]]"
+- "[[/_Standards/WikiData/WD~metropolitan_area,1907114]]"
+- "[[/_Standards/WikiData/WD~port_settlement,2264924]]"
+- "[[/_Standards/WikiData/WD~former_national_capital,129268952]]"
 - '[[/_Standards/WikiData/WD~city,515]]'
-located_in_the_administrative_territorial_entity: "[[/_Standards/WikiData/WD~Lagos State,815913]]"
+located_in_the_administrative_territorial_entity: "[[/_Standards/WikiData/WD~Lagos_State,815913]]"
 different_from: '[[/_Standards/WikiData/WD~Lagos,820969]]'
 described_by_source:
-- "[[/_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[/_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[/_Standards/WikiData/WD~Meyers Konversations-Lexikon, 4th edition (1885–1890),19219752]]"
+- "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[/_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
 capital_of:
-- "[[/_Standards/WikiData/WD~Colonial Nigeria,2046345]]"
-- "[[/_Standards/WikiData/WD~Southern Nigeria Protectorate,2062030]]"
-- "[[/_Standards/WikiData/WD~First Nigerian Republic,3511905]]"
-- "[[/_Standards/WikiData/WD~Federation of Nigeria,5440850]]"
+- "[[/_Standards/WikiData/WD~Colonial_Nigeria,2046345]]"
+- "[[/_Standards/WikiData/WD~Southern_Nigeria_Protectorate,2062030]]"
+- "[[/_Standards/WikiData/WD~First_Nigerian_Republic,3511905]]"
+- "[[/_Standards/WikiData/WD~Federation_of_Nigeria,5440850]]"
 - '[[/_Standards/WikiData/WD~Nigeria,1033]]'
 head_of_government:
-- "[[/_Standards/WikiData/WD~Rilwan Akiolu,20090080]]"
-- "[[/_Standards/WikiData/WD~Babajide Sanwo-Olu,56678515]]"
+- "[[/_Standards/WikiData/WD~Rilwan_Akiolu,20090080]]"
+- "[[/_Standards/WikiData/WD~Babajide_Sanwo-Olu,56678515]]"
 inception: "1472-01-01T00:00:00Z"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/5th%20Avenue%20Road%2C%20Egbeda%2C%20Lagos.jpg"
 UN_LOCODE: NGLOS
