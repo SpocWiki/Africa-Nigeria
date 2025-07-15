@@ -1,4 +1,4 @@
-﻿---
+---
 location: [12,8.52] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/City/Kano~Nigeria|Kano~Nigeria]] 
-- [[../../../../../../_public/geo/Continent/Africa/Nigeria/City/Kano~Nigeria.public|Kano~Nigeria.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/City/Kano~Nigeria.internal|Kano~Nigeria.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/City/Kano~Nigeria.protect|Kano~Nigeria.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Nigeria/City/Kano~Nigeria.private|Kano~Nigeria.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/City/Kano~Nigeria.personal|Kano~Nigeria.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/City/Kano~Nigeria.secret|Kano~Nigeria.secret]] 
+
+### #is_/same_as :: [Kano~Nigeria](/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kano/City/Kano~Nigeria.md) 
+
+### #is_/same_as :: [Kano~Nigeria.public](/_public/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kano/City/Kano~Nigeria.public.md) 
+
+### #is_/same_as :: [Kano~Nigeria.internal](/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kano/City/Kano~Nigeria.internal.md) 
+
+### #is_/same_as :: [Kano~Nigeria.protect](/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kano/City/Kano~Nigeria.protect.md) 
+
+### #is_/same_as :: [Kano~Nigeria.private](/_private/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kano/City/Kano~Nigeria.private.md) 
+
+### #is_/same_as :: [Kano~Nigeria.personal](/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kano/City/Kano~Nigeria.personal.md) 
+
+### #is_/same_as :: [Kano~Nigeria.secret](/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kano/City/Kano~Nigeria.secret.md)
+

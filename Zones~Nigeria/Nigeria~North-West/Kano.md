@@ -40,11 +40,18 @@ markerFolder: ./Kano/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Kano|Kano]] 
-- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Kano.public|Kano.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Kano.internal|Kano.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Kano.protect|Kano.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Kano.private|Kano.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Kano.personal|Kano.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Kano.secret|Kano.secret]] 
+
+### #is_/same_as :: [Kano](/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kano.md) 
+
+### #is_/same_as :: [Kano.public](/_public/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kano.public.md) 
+
+### #is_/same_as :: [Kano.internal](/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kano.internal.md) 
+
+### #is_/same_as :: [Kano.protect](/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kano.protect.md) 
+
+### #is_/same_as :: [Kano.private](/_private/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kano.private.md) 
+
+### #is_/same_as :: [Kano.personal](/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kano.personal.md) 
+
+### #is_/same_as :: [Kano.secret](/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kano.secret.md)
 

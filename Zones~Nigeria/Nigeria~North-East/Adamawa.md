@@ -40,11 +40,18 @@ markerFolder: ./Adamawa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Adamawa|Adamawa]] 
-- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Adamawa.public|Adamawa.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Adamawa.internal|Adamawa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Adamawa.protect|Adamawa.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Adamawa.private|Adamawa.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Adamawa.personal|Adamawa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Adamawa.secret|Adamawa.secret]] 
+
+### #is_/same_as :: [Adamawa](/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-East/Adamawa.md) 
+
+### #is_/same_as :: [Adamawa.public](/_public/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-East/Adamawa.public.md) 
+
+### #is_/same_as :: [Adamawa.internal](/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-East/Adamawa.internal.md) 
+
+### #is_/same_as :: [Adamawa.protect](/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-East/Adamawa.protect.md) 
+
+### #is_/same_as :: [Adamawa.private](/_private/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-East/Adamawa.private.md) 
+
+### #is_/same_as :: [Adamawa.personal](/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-East/Adamawa.personal.md) 
+
+### #is_/same_as :: [Adamawa.secret](/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-East/Adamawa.secret.md)
 

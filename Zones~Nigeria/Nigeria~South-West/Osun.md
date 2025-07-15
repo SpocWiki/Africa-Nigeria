@@ -40,11 +40,18 @@ markerFolder: ./Osun/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Osun|Osun]] 
-- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Osun.public|Osun.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Osun.internal|Osun.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Osun.protect|Osun.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Osun.private|Osun.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Osun.personal|Osun.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Osun.secret|Osun.secret]] 
+
+### #is_/same_as :: [Osun](/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Osun.md) 
+
+### #is_/same_as :: [Osun.public](/_public/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Osun.public.md) 
+
+### #is_/same_as :: [Osun.internal](/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Osun.internal.md) 
+
+### #is_/same_as :: [Osun.protect](/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Osun.protect.md) 
+
+### #is_/same_as :: [Osun.private](/_private/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Osun.private.md) 
+
+### #is_/same_as :: [Osun.personal](/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Osun.personal.md) 
+
+### #is_/same_as :: [Osun.secret](/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Osun.secret.md)
 

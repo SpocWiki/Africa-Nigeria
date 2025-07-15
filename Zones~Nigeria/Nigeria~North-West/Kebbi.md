@@ -40,11 +40,18 @@ markerFolder: ./Kebbi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Kebbi|Kebbi]] 
-- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Kebbi.public|Kebbi.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Kebbi.internal|Kebbi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Kebbi.protect|Kebbi.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Kebbi.private|Kebbi.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Kebbi.personal|Kebbi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Kebbi.secret|Kebbi.secret]] 
+
+### #is_/same_as :: [Kebbi](/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kebbi.md) 
+
+### #is_/same_as :: [Kebbi.public](/_public/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kebbi.public.md) 
+
+### #is_/same_as :: [Kebbi.internal](/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kebbi.internal.md) 
+
+### #is_/same_as :: [Kebbi.protect](/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kebbi.protect.md) 
+
+### #is_/same_as :: [Kebbi.private](/_private/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kebbi.private.md) 
+
+### #is_/same_as :: [Kebbi.personal](/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kebbi.personal.md) 
+
+### #is_/same_as :: [Kebbi.secret](/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kebbi.secret.md)
 

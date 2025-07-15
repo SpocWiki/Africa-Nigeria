@@ -39,11 +39,18 @@ markerFolder: ./Imo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Imo|Imo]] 
-- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Imo.public|Imo.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Imo.internal|Imo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Imo.protect|Imo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Imo.private|Imo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Imo.personal|Imo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Imo.secret|Imo.secret]] 
+
+### #is_/same_as :: [Imo](/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Imo.md) 
+
+### #is_/same_as :: [Imo.public](/_public/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Imo.public.md) 
+
+### #is_/same_as :: [Imo.internal](/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Imo.internal.md) 
+
+### #is_/same_as :: [Imo.protect](/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Imo.protect.md) 
+
+### #is_/same_as :: [Imo.private](/_private/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Imo.private.md) 
+
+### #is_/same_as :: [Imo.personal](/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Imo.personal.md) 
+
+### #is_/same_as :: [Imo.secret](/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Imo.secret.md)
 

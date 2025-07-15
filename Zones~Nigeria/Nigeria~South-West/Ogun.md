@@ -40,11 +40,18 @@ markerFolder: ./Ogun/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Ogun|Ogun]] 
-- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Ogun.public|Ogun.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Ogun.internal|Ogun.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Ogun.protect|Ogun.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Ogun.private|Ogun.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Ogun.personal|Ogun.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Ogun.secret|Ogun.secret]] 
+
+### #is_/same_as :: [Ogun](/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Ogun.md) 
+
+### #is_/same_as :: [Ogun.public](/_public/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Ogun.public.md) 
+
+### #is_/same_as :: [Ogun.internal](/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Ogun.internal.md) 
+
+### #is_/same_as :: [Ogun.protect](/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Ogun.protect.md) 
+
+### #is_/same_as :: [Ogun.private](/_private/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Ogun.private.md) 
+
+### #is_/same_as :: [Ogun.personal](/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Ogun.personal.md) 
+
+### #is_/same_as :: [Ogun.secret](/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Ogun.secret.md)
 

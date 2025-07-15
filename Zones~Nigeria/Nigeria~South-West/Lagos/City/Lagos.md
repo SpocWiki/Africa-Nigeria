@@ -1,4 +1,4 @@
-﻿---
+---
 location: [6.45,3.4] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/City/Lagos|Lagos]] 
-- [[../../../../../../_public/geo/Continent/Africa/Nigeria/City/Lagos.public|Lagos.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/City/Lagos.internal|Lagos.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/City/Lagos.protect|Lagos.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Nigeria/City/Lagos.private|Lagos.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/City/Lagos.personal|Lagos.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/City/Lagos.secret|Lagos.secret]] 
+
+### #is_/same_as :: [Lagos](/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Lagos/City/Lagos.md) 
+
+### #is_/same_as :: [Lagos.public](/_public/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Lagos/City/Lagos.public.md) 
+
+### #is_/same_as :: [Lagos.internal](/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Lagos/City/Lagos.internal.md) 
+
+### #is_/same_as :: [Lagos.protect](/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Lagos/City/Lagos.protect.md) 
+
+### #is_/same_as :: [Lagos.private](/_private/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Lagos/City/Lagos.private.md) 
+
+### #is_/same_as :: [Lagos.personal](/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Lagos/City/Lagos.personal.md) 
+
+### #is_/same_as :: [Lagos.secret](/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Lagos/City/Lagos.secret.md)
+

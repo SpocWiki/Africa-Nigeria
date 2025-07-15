@@ -40,11 +40,18 @@ markerFolder: ./Bayelsa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Bayelsa|Bayelsa]] 
-- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Bayelsa.public|Bayelsa.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Bayelsa.internal|Bayelsa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Bayelsa.protect|Bayelsa.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Bayelsa.private|Bayelsa.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Bayelsa.personal|Bayelsa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Bayelsa.secret|Bayelsa.secret]] 
+
+### #is_/same_as :: [Bayelsa](/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South/Bayelsa.md) 
+
+### #is_/same_as :: [Bayelsa.public](/_public/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South/Bayelsa.public.md) 
+
+### #is_/same_as :: [Bayelsa.internal](/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South/Bayelsa.internal.md) 
+
+### #is_/same_as :: [Bayelsa.protect](/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South/Bayelsa.protect.md) 
+
+### #is_/same_as :: [Bayelsa.private](/_private/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South/Bayelsa.private.md) 
+
+### #is_/same_as :: [Bayelsa.personal](/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South/Bayelsa.personal.md) 
+
+### #is_/same_as :: [Bayelsa.secret](/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South/Bayelsa.secret.md)
 

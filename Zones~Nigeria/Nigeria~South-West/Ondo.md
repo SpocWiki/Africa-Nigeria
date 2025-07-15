@@ -40,11 +40,18 @@ markerFolder: ./Ondo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Ondo|Ondo]] 
-- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Ondo.public|Ondo.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Ondo.internal|Ondo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Ondo.protect|Ondo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Ondo.private|Ondo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Ondo.personal|Ondo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Ondo.secret|Ondo.secret]] 
+
+### #is_/same_as :: [Ondo](/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Ondo.md) 
+
+### #is_/same_as :: [Ondo.public](/_public/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Ondo.public.md) 
+
+### #is_/same_as :: [Ondo.internal](/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Ondo.internal.md) 
+
+### #is_/same_as :: [Ondo.protect](/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Ondo.protect.md) 
+
+### #is_/same_as :: [Ondo.private](/_private/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Ondo.private.md) 
+
+### #is_/same_as :: [Ondo.personal](/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Ondo.personal.md) 
+
+### #is_/same_as :: [Ondo.secret](/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Ondo.secret.md)
 

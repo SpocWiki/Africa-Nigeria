@@ -40,11 +40,18 @@ markerFolder: ./Jigawa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Jigawa|Jigawa]] 
-- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Jigawa.public|Jigawa.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Jigawa.internal|Jigawa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Jigawa.protect|Jigawa.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Jigawa.private|Jigawa.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Jigawa.personal|Jigawa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Jigawa.secret|Jigawa.secret]] 
+
+### #is_/same_as :: [Jigawa](/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Jigawa.md) 
+
+### #is_/same_as :: [Jigawa.public](/_public/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Jigawa.public.md) 
+
+### #is_/same_as :: [Jigawa.internal](/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Jigawa.internal.md) 
+
+### #is_/same_as :: [Jigawa.protect](/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Jigawa.protect.md) 
+
+### #is_/same_as :: [Jigawa.private](/_private/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Jigawa.private.md) 
+
+### #is_/same_as :: [Jigawa.personal](/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Jigawa.personal.md) 
+
+### #is_/same_as :: [Jigawa.secret](/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Jigawa.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Benue/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Benue|Benue]] 
-- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Benue.public|Benue.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Benue.internal|Benue.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Benue.protect|Benue.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Benue.private|Benue.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Benue.personal|Benue.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Benue.secret|Benue.secret]] 
+
+### #is_/same_as :: [Benue](/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-Central/Benue.md) 
+
+### #is_/same_as :: [Benue.public](/_public/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-Central/Benue.public.md) 
+
+### #is_/same_as :: [Benue.internal](/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-Central/Benue.internal.md) 
+
+### #is_/same_as :: [Benue.protect](/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-Central/Benue.protect.md) 
+
+### #is_/same_as :: [Benue.private](/_private/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-Central/Benue.private.md) 
+
+### #is_/same_as :: [Benue.personal](/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-Central/Benue.personal.md) 
+
+### #is_/same_as :: [Benue.secret](/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-Central/Benue.secret.md)
 

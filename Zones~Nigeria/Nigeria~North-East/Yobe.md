@@ -40,11 +40,18 @@ markerFolder: ./Yobe/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Yobe|Yobe]] 
-- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Yobe.public|Yobe.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Yobe.internal|Yobe.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Yobe.protect|Yobe.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Yobe.private|Yobe.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Yobe.personal|Yobe.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Yobe.secret|Yobe.secret]] 
+
+### #is_/same_as :: [Yobe](/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-East/Yobe.md) 
+
+### #is_/same_as :: [Yobe.public](/_public/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-East/Yobe.public.md) 
+
+### #is_/same_as :: [Yobe.internal](/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-East/Yobe.internal.md) 
+
+### #is_/same_as :: [Yobe.protect](/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-East/Yobe.protect.md) 
+
+### #is_/same_as :: [Yobe.private](/_private/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-East/Yobe.private.md) 
+
+### #is_/same_as :: [Yobe.personal](/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-East/Yobe.personal.md) 
+
+### #is_/same_as :: [Yobe.secret](/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-East/Yobe.secret.md)
 

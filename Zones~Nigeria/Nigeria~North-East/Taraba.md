@@ -40,11 +40,18 @@ markerFolder: ./Taraba/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Taraba|Taraba]] 
-- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Taraba.public|Taraba.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Taraba.internal|Taraba.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Taraba.protect|Taraba.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Taraba.private|Taraba.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Taraba.personal|Taraba.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Taraba.secret|Taraba.secret]] 
+
+### #is_/same_as :: [Taraba](/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-East/Taraba.md) 
+
+### #is_/same_as :: [Taraba.public](/_public/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-East/Taraba.public.md) 
+
+### #is_/same_as :: [Taraba.internal](/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-East/Taraba.internal.md) 
+
+### #is_/same_as :: [Taraba.protect](/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-East/Taraba.protect.md) 
+
+### #is_/same_as :: [Taraba.private](/_private/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-East/Taraba.private.md) 
+
+### #is_/same_as :: [Taraba.personal](/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-East/Taraba.personal.md) 
+
+### #is_/same_as :: [Taraba.secret](/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-East/Taraba.secret.md)
 

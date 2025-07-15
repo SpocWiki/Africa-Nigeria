@@ -40,11 +40,18 @@ markerFolder: ./Kaduna/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Kaduna|Kaduna]] 
-- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Kaduna.public|Kaduna.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Kaduna.internal|Kaduna.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Kaduna.protect|Kaduna.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Kaduna.private|Kaduna.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Kaduna.personal|Kaduna.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Kaduna.secret|Kaduna.secret]] 
+
+### #is_/same_as :: [Kaduna](/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kaduna.md) 
+
+### #is_/same_as :: [Kaduna.public](/_public/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kaduna.public.md) 
+
+### #is_/same_as :: [Kaduna.internal](/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kaduna.internal.md) 
+
+### #is_/same_as :: [Kaduna.protect](/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kaduna.protect.md) 
+
+### #is_/same_as :: [Kaduna.private](/_private/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kaduna.private.md) 
+
+### #is_/same_as :: [Kaduna.personal](/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kaduna.personal.md) 
+
+### #is_/same_as :: [Kaduna.secret](/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kaduna.secret.md)
 

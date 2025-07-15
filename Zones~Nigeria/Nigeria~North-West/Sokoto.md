@@ -40,11 +40,18 @@ markerFolder: ./Sokoto/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Sokoto|Sokoto]] 
-- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Sokoto.public|Sokoto.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Sokoto.internal|Sokoto.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Sokoto.protect|Sokoto.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Sokoto.private|Sokoto.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Sokoto.personal|Sokoto.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Sokoto.secret|Sokoto.secret]] 
+
+### #is_/same_as :: [Sokoto](/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Sokoto.md) 
+
+### #is_/same_as :: [Sokoto.public](/_public/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Sokoto.public.md) 
+
+### #is_/same_as :: [Sokoto.internal](/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Sokoto.internal.md) 
+
+### #is_/same_as :: [Sokoto.protect](/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Sokoto.protect.md) 
+
+### #is_/same_as :: [Sokoto.private](/_private/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Sokoto.private.md) 
+
+### #is_/same_as :: [Sokoto.personal](/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Sokoto.personal.md) 
+
+### #is_/same_as :: [Sokoto.secret](/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Sokoto.secret.md)
 

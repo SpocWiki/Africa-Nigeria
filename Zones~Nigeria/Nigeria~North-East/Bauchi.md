@@ -40,11 +40,18 @@ markerFolder: ./Bauchi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Bauchi|Bauchi]] 
-- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Bauchi.public|Bauchi.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Bauchi.internal|Bauchi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Bauchi.protect|Bauchi.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Bauchi.private|Bauchi.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Bauchi.personal|Bauchi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Bauchi.secret|Bauchi.secret]] 
+
+### #is_/same_as :: [Bauchi](/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-East/Bauchi.md) 
+
+### #is_/same_as :: [Bauchi.public](/_public/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-East/Bauchi.public.md) 
+
+### #is_/same_as :: [Bauchi.internal](/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-East/Bauchi.internal.md) 
+
+### #is_/same_as :: [Bauchi.protect](/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-East/Bauchi.protect.md) 
+
+### #is_/same_as :: [Bauchi.private](/_private/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-East/Bauchi.private.md) 
+
+### #is_/same_as :: [Bauchi.personal](/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-East/Bauchi.personal.md) 
+
+### #is_/same_as :: [Bauchi.secret](/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-East/Bauchi.secret.md)
 

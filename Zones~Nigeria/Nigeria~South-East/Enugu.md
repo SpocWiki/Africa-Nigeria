@@ -40,11 +40,18 @@ markerFolder: ./Enugu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Enugu|Enugu]] 
-- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Enugu.public|Enugu.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Enugu.internal|Enugu.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Enugu.protect|Enugu.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Enugu.private|Enugu.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Enugu.personal|Enugu.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Enugu.secret|Enugu.secret]] 
+
+### #is_/same_as :: [Enugu](/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Enugu.md) 
+
+### #is_/same_as :: [Enugu.public](/_public/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Enugu.public.md) 
+
+### #is_/same_as :: [Enugu.internal](/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Enugu.internal.md) 
+
+### #is_/same_as :: [Enugu.protect](/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Enugu.protect.md) 
+
+### #is_/same_as :: [Enugu.private](/_private/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Enugu.private.md) 
+
+### #is_/same_as :: [Enugu.personal](/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Enugu.personal.md) 
+
+### #is_/same_as :: [Enugu.secret](/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Enugu.secret.md)
 

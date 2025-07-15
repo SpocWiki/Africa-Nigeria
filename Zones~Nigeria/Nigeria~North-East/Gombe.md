@@ -40,11 +40,18 @@ markerFolder: ./Gombe/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Gombe|Gombe]] 
-- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Gombe.public|Gombe.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Gombe.internal|Gombe.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Gombe.protect|Gombe.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Gombe.private|Gombe.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Gombe.personal|Gombe.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Gombe.secret|Gombe.secret]] 
+
+### #is_/same_as :: [Gombe](/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-East/Gombe.md) 
+
+### #is_/same_as :: [Gombe.public](/_public/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-East/Gombe.public.md) 
+
+### #is_/same_as :: [Gombe.internal](/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-East/Gombe.internal.md) 
+
+### #is_/same_as :: [Gombe.protect](/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-East/Gombe.protect.md) 
+
+### #is_/same_as :: [Gombe.private](/_private/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-East/Gombe.private.md) 
+
+### #is_/same_as :: [Gombe.personal](/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-East/Gombe.personal.md) 
+
+### #is_/same_as :: [Gombe.secret](/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-East/Gombe.secret.md)
 

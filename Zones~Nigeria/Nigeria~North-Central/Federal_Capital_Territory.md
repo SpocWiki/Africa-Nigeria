@@ -40,11 +40,18 @@ markerFolder: ./Federal_Capital_Territory/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Federal_Capital_Territory|Federal_Capital_Territory]] 
-- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Federal_Capital_Territory.public|Federal_Capital_Territory.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Federal_Capital_Territory.internal|Federal_Capital_Territory.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Federal_Capital_Territory.protect|Federal_Capital_Territory.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Federal_Capital_Territory.private|Federal_Capital_Territory.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Federal_Capital_Territory.personal|Federal_Capital_Territory.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Federal_Capital_Territory.secret|Federal_Capital_Territory.secret]] 
+
+### #is_/same_as :: [Federal_Capital_Territory](/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-Central/Federal_Capital_Territory.md) 
+
+### #is_/same_as :: [Federal_Capital_Territory.public](/_public/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-Central/Federal_Capital_Territory.public.md) 
+
+### #is_/same_as :: [Federal_Capital_Territory.internal](/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-Central/Federal_Capital_Territory.internal.md) 
+
+### #is_/same_as :: [Federal_Capital_Territory.protect](/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-Central/Federal_Capital_Territory.protect.md) 
+
+### #is_/same_as :: [Federal_Capital_Territory.private](/_private/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-Central/Federal_Capital_Territory.private.md) 
+
+### #is_/same_as :: [Federal_Capital_Territory.personal](/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-Central/Federal_Capital_Territory.personal.md) 
+
+### #is_/same_as :: [Federal_Capital_Territory.secret](/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-Central/Federal_Capital_Territory.secret.md)
 

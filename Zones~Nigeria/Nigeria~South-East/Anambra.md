@@ -40,11 +40,18 @@ markerFolder: ./Anambra/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Anambra|Anambra]] 
-- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Anambra.public|Anambra.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Anambra.internal|Anambra.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Anambra.protect|Anambra.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Anambra.private|Anambra.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Anambra.personal|Anambra.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Anambra.secret|Anambra.secret]] 
+
+### #is_/same_as :: [Anambra](/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Anambra.md) 
+
+### #is_/same_as :: [Anambra.public](/_public/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Anambra.public.md) 
+
+### #is_/same_as :: [Anambra.internal](/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Anambra.internal.md) 
+
+### #is_/same_as :: [Anambra.protect](/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Anambra.protect.md) 
+
+### #is_/same_as :: [Anambra.private](/_private/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Anambra.private.md) 
+
+### #is_/same_as :: [Anambra.personal](/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Anambra.personal.md) 
+
+### #is_/same_as :: [Anambra.secret](/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Anambra.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Zamfara/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Zamfara|Zamfara]] 
-- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Zamfara.public|Zamfara.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Zamfara.internal|Zamfara.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Zamfara.protect|Zamfara.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Zamfara.private|Zamfara.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Zamfara.personal|Zamfara.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Zamfara.secret|Zamfara.secret]] 
+
+### #is_/same_as :: [Zamfara](/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Zamfara.md) 
+
+### #is_/same_as :: [Zamfara.public](/_public/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Zamfara.public.md) 
+
+### #is_/same_as :: [Zamfara.internal](/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Zamfara.internal.md) 
+
+### #is_/same_as :: [Zamfara.protect](/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Zamfara.protect.md) 
+
+### #is_/same_as :: [Zamfara.private](/_private/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Zamfara.private.md) 
+
+### #is_/same_as :: [Zamfara.personal](/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Zamfara.personal.md) 
+
+### #is_/same_as :: [Zamfara.secret](/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Zamfara.secret.md)
 

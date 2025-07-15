@@ -40,11 +40,18 @@ markerFolder: ./Ekiti/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Ekiti|Ekiti]] 
-- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Ekiti.public|Ekiti.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Ekiti.internal|Ekiti.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Ekiti.protect|Ekiti.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Ekiti.private|Ekiti.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Ekiti.personal|Ekiti.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Ekiti.secret|Ekiti.secret]] 
+
+### #is_/same_as :: [Ekiti](/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Ekiti.md) 
+
+### #is_/same_as :: [Ekiti.public](/_public/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Ekiti.public.md) 
+
+### #is_/same_as :: [Ekiti.internal](/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Ekiti.internal.md) 
+
+### #is_/same_as :: [Ekiti.protect](/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Ekiti.protect.md) 
+
+### #is_/same_as :: [Ekiti.private](/_private/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Ekiti.private.md) 
+
+### #is_/same_as :: [Ekiti.personal](/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Ekiti.personal.md) 
+
+### #is_/same_as :: [Ekiti.secret](/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Ekiti.secret.md)
 

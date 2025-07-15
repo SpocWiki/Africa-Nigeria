@@ -40,11 +40,18 @@ markerFolder: ./Abia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Abia|Abia]] 
-- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Abia.public|Abia.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Abia.internal|Abia.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Abia.protect|Abia.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Abia.private|Abia.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Abia.personal|Abia.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Abia.secret|Abia.secret]] 
+
+### #is_/same_as :: [Abia](/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Abia.md) 
+
+### #is_/same_as :: [Abia.public](/_public/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Abia.public.md) 
+
+### #is_/same_as :: [Abia.internal](/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Abia.internal.md) 
+
+### #is_/same_as :: [Abia.protect](/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Abia.protect.md) 
+
+### #is_/same_as :: [Abia.private](/_private/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Abia.private.md) 
+
+### #is_/same_as :: [Abia.personal](/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Abia.personal.md) 
+
+### #is_/same_as :: [Abia.secret](/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Abia.secret.md)
 

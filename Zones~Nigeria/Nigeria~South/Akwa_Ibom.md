@@ -40,11 +40,18 @@ markerFolder: ./Akwa_Ibom/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Akwa_Ibom|Akwa_Ibom]] 
-- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Akwa_Ibom.public|Akwa_Ibom.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Akwa_Ibom.internal|Akwa_Ibom.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Akwa_Ibom.protect|Akwa_Ibom.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Akwa_Ibom.private|Akwa_Ibom.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Akwa_Ibom.personal|Akwa_Ibom.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Akwa_Ibom.secret|Akwa_Ibom.secret]] 
+
+### #is_/same_as :: [Akwa_Ibom](/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South/Akwa_Ibom.md) 
+
+### #is_/same_as :: [Akwa_Ibom.public](/_public/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South/Akwa_Ibom.public.md) 
+
+### #is_/same_as :: [Akwa_Ibom.internal](/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South/Akwa_Ibom.internal.md) 
+
+### #is_/same_as :: [Akwa_Ibom.protect](/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South/Akwa_Ibom.protect.md) 
+
+### #is_/same_as :: [Akwa_Ibom.private](/_private/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South/Akwa_Ibom.private.md) 
+
+### #is_/same_as :: [Akwa_Ibom.personal](/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South/Akwa_Ibom.personal.md) 
+
+### #is_/same_as :: [Akwa_Ibom.secret](/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South/Akwa_Ibom.secret.md)
 

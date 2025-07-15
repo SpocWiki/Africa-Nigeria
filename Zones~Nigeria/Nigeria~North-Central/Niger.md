@@ -40,11 +40,18 @@ markerFolder: ./Niger/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Niger|Niger]] 
-- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Niger.public|Niger.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Niger.internal|Niger.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Niger.protect|Niger.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Niger.private|Niger.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Niger.personal|Niger.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Niger.secret|Niger.secret]] 
+
+### #is_/same_as :: [Niger](/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-Central/Niger.md) 
+
+### #is_/same_as :: [Niger.public](/_public/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-Central/Niger.public.md) 
+
+### #is_/same_as :: [Niger.internal](/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-Central/Niger.internal.md) 
+
+### #is_/same_as :: [Niger.protect](/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-Central/Niger.protect.md) 
+
+### #is_/same_as :: [Niger.private](/_private/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-Central/Niger.private.md) 
+
+### #is_/same_as :: [Niger.personal](/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-Central/Niger.personal.md) 
+
+### #is_/same_as :: [Niger.secret](/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-Central/Niger.secret.md)
 

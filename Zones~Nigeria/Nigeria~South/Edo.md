@@ -39,11 +39,18 @@ markerFolder: ./Edo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Edo|Edo]] 
-- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Edo.public|Edo.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Edo.internal|Edo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Edo.protect|Edo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Edo.private|Edo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Edo.personal|Edo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Edo.secret|Edo.secret]] 
+
+### #is_/same_as :: [Edo](/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South/Edo.md) 
+
+### #is_/same_as :: [Edo.public](/_public/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South/Edo.public.md) 
+
+### #is_/same_as :: [Edo.internal](/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South/Edo.internal.md) 
+
+### #is_/same_as :: [Edo.protect](/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South/Edo.protect.md) 
+
+### #is_/same_as :: [Edo.private](/_private/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South/Edo.private.md) 
+
+### #is_/same_as :: [Edo.personal](/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South/Edo.personal.md) 
+
+### #is_/same_as :: [Edo.secret](/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South/Edo.secret.md)
 

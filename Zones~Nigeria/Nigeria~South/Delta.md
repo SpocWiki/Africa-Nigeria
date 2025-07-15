@@ -40,11 +40,18 @@ markerFolder: ./Delta/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Delta|Delta]] 
-- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Delta.public|Delta.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Delta.internal|Delta.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Delta.protect|Delta.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Delta.private|Delta.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Delta.personal|Delta.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Delta.secret|Delta.secret]] 
+
+### #is_/same_as :: [Delta](/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South/Delta.md) 
+
+### #is_/same_as :: [Delta.public](/_public/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South/Delta.public.md) 
+
+### #is_/same_as :: [Delta.internal](/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South/Delta.internal.md) 
+
+### #is_/same_as :: [Delta.protect](/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South/Delta.protect.md) 
+
+### #is_/same_as :: [Delta.private](/_private/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South/Delta.private.md) 
+
+### #is_/same_as :: [Delta.personal](/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South/Delta.personal.md) 
+
+### #is_/same_as :: [Delta.secret](/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South/Delta.secret.md)
 

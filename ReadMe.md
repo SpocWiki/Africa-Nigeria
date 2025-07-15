@@ -134,10 +134,4 @@ Capital :: [[Abuja]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Nigeria|Nigeria]]  
-- [[../../../../../_internal/geo/Continent/Africa/Africa~Central/Nigeria.internal|Nigeria.internal]]  
-- [[../../../../../_protect/geo/Continent/Africa/Africa~Central/Nigeria.protect|Nigeria.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~Central/Nigeria.private|Nigeria.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~Central/Nigeria.personal|Nigeria.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~Central/Nigeria.secret|Nigeria.secret]] 
+

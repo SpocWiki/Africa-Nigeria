@@ -40,11 +40,18 @@ markerFolder: ./Katsina/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Katsina|Katsina]] 
-- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Katsina.public|Katsina.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Katsina.internal|Katsina.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Katsina.protect|Katsina.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Katsina.private|Katsina.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Katsina.personal|Katsina.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Katsina.secret|Katsina.secret]] 
+
+### #is_/same_as :: [Katsina](/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Katsina.md) 
+
+### #is_/same_as :: [Katsina.public](/_public/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Katsina.public.md) 
+
+### #is_/same_as :: [Katsina.internal](/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Katsina.internal.md) 
+
+### #is_/same_as :: [Katsina.protect](/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Katsina.protect.md) 
+
+### #is_/same_as :: [Katsina.private](/_private/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Katsina.private.md) 
+
+### #is_/same_as :: [Katsina.personal](/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Katsina.personal.md) 
+
+### #is_/same_as :: [Katsina.secret](/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Katsina.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Ebonyi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Nigeria/Counties/Ebonyi|Ebonyi]] 
-- [[../../../../../../_public/geo/Continent/Africa/Nigeria/Counties/Ebonyi.public|Ebonyi.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Nigeria/Counties/Ebonyi.internal|Ebonyi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Nigeria/Counties/Ebonyi.protect|Ebonyi.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Nigeria/Counties/Ebonyi.private|Ebonyi.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Nigeria/Counties/Ebonyi.personal|Ebonyi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Nigeria/Counties/Ebonyi.secret|Ebonyi.secret]] 
+
+### #is_/same_as :: [Ebonyi](/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Ebonyi.md) 
+
+### #is_/same_as :: [Ebonyi.public](/_public/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Ebonyi.public.md) 
+
+### #is_/same_as :: [Ebonyi.internal](/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Ebonyi.internal.md) 
+
+### #is_/same_as :: [Ebonyi.protect](/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Ebonyi.protect.md) 
+
+### #is_/same_as :: [Ebonyi.private](/_private/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Ebonyi.private.md) 
+
+### #is_/same_as :: [Ebonyi.personal](/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Ebonyi.personal.md) 
+
+### #is_/same_as :: [Ebonyi.secret](/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Ebonyi.secret.md)
 
