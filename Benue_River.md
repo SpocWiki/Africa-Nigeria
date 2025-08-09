@@ -5,32 +5,32 @@ aliases:
   - Chadda River
   - Tchadda
 has_id_wikidata: Q204806
-used_by: "[[db/farm]]"
+used_by: "[[_Standards/WikiData/WD~farm,131596]]"
 instance_of:
-  - "[[db/watercourse]]"
-  - "[[db/river]]"
-located_in_the_administrative_territorial_entity: "[[db/Kogi_State]]"
-origin_of_the_watercourse: "[[db/Adamawa_Plateau]]"
+  - "[[_Standards/WikiData/WD~watercourse,355304]]"
+  - "[[_Standards/WikiData/WD~river,4022]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Kogi_State,387745]]"
+origin_of_the_watercourse: "[[_Standards/WikiData/WD~Adamawa_Plateau,482274]]"
 tributary:
-  - "[[db/Mayo_Kébi]]"
-  - "[[db/Donga_River]]"
-  - "[[db/Katsina_Ala_River]]"
-  - "[[db/Gongola_River]]"
-  - "[[db/Ankwe_river]]"
-  - "[[db/Q108307601]]"
+  - "[[_Standards/WikiData/WD~Mayo_Kébi,600795]]"
+  - "[[_Standards/WikiData/WD~Donga_River,1115167]]"
+  - "[[_Standards/WikiData/WD~Katsina_Ala_River,3194219]]"
+  - "[[_Standards/WikiData/WD~Gongola_River,4786963]]"
+  - "[[_Standards/WikiData/WD~Ankwe_river,108102082]]"
+  - "[[_Standards/WikiData/WD~Q108307601,108307601]]"
 described_by_source:
-  - "[[db/Brockhaus_and_Efron_Encyclopedic_Dictionary]]"
-  - "[[db/Encyclopædia_Britannica_11th_edition]]"
-  - "[[db/The_Nuttall_Encyclopædia]]"
-lake_on_watercourse: "[[db/Lagdo_Reservoir]]"
-drainage_basin: "[[db/Niger_basin]]"
-created_by_dam: "[[db/Q11982932]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+lake_on_watercourse: "[[_Standards/WikiData/WD~Lagdo_Reservoir,1375368]]"
+drainage_basin: "[[_Standards/WikiData/WD~Niger_basin,2887545]]"
+created_by_dam: "[[_Standards/WikiData/WD~Q11982932,11982932]]"
 coordinate_location: Point(6.766667 7.783333)
 country:
-  - "[[db/Cameroon]]"
-  - "[[db/Nigeria]]"
-mouth_of_the_watercourse: "[[db/Niger_River]]"
-continent: "[[db/Africa]]"
+  - "[[_Standards/WikiData/WD~Cameroon,1009]]"
+  - "[[_Standards/WikiData/WD~Nigeria,1033]]"
+mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Niger_River,3542]]"
+continent: "[[_Standards/WikiData/WD~Africa,15]]"
 length: 1370
 discharge: 3170
 watershed_area: 441000
