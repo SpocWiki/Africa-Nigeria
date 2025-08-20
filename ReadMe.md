@@ -1,39 +1,40 @@
 ---
 location:
-- 9.17222
-- 6.46778
+  - 9.17222
+  - 6.46778
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26981
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Nigeria
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Nigeria
-- Nigéria
-- نيجيريا
-- 尼日利亚
-- Нигерия
-- the Federal Republic of Nigeria
-- la República Federal de Nigeria
+  - Nigeria
+  - Nigéria
+  - نيجيريا
+  - 尼日利亚
+  - Нигерия
+  - the Federal Republic of Nigeria
+  - la República Federal de Nigeria
 Languages:
-- en-NG
-- ha
-- yo
-- ig
-- ff
+  - en-NG
+  - ha
+  - yo
+  - ig
+  - ff
 ---
 
 
