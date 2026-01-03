@@ -59,3 +59,20 @@ Commons_category: History of Nigeria
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Nigeria) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/History_of_Nigeria|History_of_Nigeria]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Nigeria/History_of_Nigeria.public|History_of_Nigeria.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/History_of_Nigeria.internal|History_of_Nigeria.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/History_of_Nigeria.protect|History_of_Nigeria.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Nigeria/History_of_Nigeria.private|History_of_Nigeria.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/History_of_Nigeria.personal|History_of_Nigeria.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/History_of_Nigeria.secret|History_of_Nigeria.secret]] 
+

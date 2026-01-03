@@ -40,17 +40,17 @@ markerFolder: ./Anambra/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Anambra](/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Anambra.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Anambra|Anambra]] 
 
-### #is_/same_as :: [Anambra.public](/_public/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Anambra.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Anambra.public|Anambra.public]] 
 
-### #is_/same_as :: [Anambra.internal](/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Anambra.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Anambra.internal|Anambra.internal]] 
 
-### #is_/same_as :: [Anambra.protect](/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Anambra.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Anambra.protect|Anambra.protect]] 
 
-### #is_/same_as :: [Anambra.private](/_private/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Anambra.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Anambra.private|Anambra.private]] 
 
-### #is_/same_as :: [Anambra.personal](/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Anambra.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Anambra.personal|Anambra.personal]] 
 
-### #is_/same_as :: [Anambra.secret](/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Anambra.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-East/Anambra.secret|Anambra.secret]] 
 

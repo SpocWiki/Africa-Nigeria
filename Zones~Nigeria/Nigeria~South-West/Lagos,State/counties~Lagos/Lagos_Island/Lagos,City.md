@@ -128,17 +128,17 @@ markerFile: [[Lagos,City]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lagos](/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Lagos/City/Lagos.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Lagos,State/counties~Lagos/Lagos_Island/Lagos,City|Lagos,City]] 
 
-### #is_/same_as :: [Lagos.public](/_public/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Lagos/City/Lagos.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Lagos,State/counties~Lagos/Lagos_Island/Lagos,City.public|Lagos,City.public]] 
 
-### #is_/same_as :: [Lagos.internal](/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Lagos/City/Lagos.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Lagos,State/counties~Lagos/Lagos_Island/Lagos,City.internal|Lagos,City.internal]] 
 
-### #is_/same_as :: [Lagos.protect](/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Lagos/City/Lagos.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Lagos,State/counties~Lagos/Lagos_Island/Lagos,City.protect|Lagos,City.protect]] 
 
-### #is_/same_as :: [Lagos.private](/_private/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Lagos/City/Lagos.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Lagos,State/counties~Lagos/Lagos_Island/Lagos,City.private|Lagos,City.private]] 
 
-### #is_/same_as :: [Lagos.personal](/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Lagos/City/Lagos.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Lagos,State/counties~Lagos/Lagos_Island/Lagos,City.personal|Lagos,City.personal]] 
 
-### #is_/same_as :: [Lagos.secret](/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Lagos/City/Lagos.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~South-West/Lagos,State/counties~Lagos/Lagos_Island/Lagos,City.secret|Lagos,City.secret]] 
 

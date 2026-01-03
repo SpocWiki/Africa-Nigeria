@@ -68,17 +68,17 @@ Wolfram_Language_entity_code: Entity["River", "Benue::9b5vg"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Benue_River](/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/Benue_River.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/Benue_River|Benue_River]] 
 
-### #is_/same_as :: [Benue_River.public](/_public/Earth/Continent/Africa/Africa~Central/Nigeria/Benue_River.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Nigeria/Benue_River.public|Benue_River.public]] 
 
-### #is_/same_as :: [Benue_River.internal](/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/Benue_River.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/Benue_River.internal|Benue_River.internal]] 
 
-### #is_/same_as :: [Benue_River.protect](/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/Benue_River.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/Benue_River.protect|Benue_River.protect]] 
 
-### #is_/same_as :: [Benue_River.private](/_private/Earth/Continent/Africa/Africa~Central/Nigeria/Benue_River.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Nigeria/Benue_River.private|Benue_River.private]] 
 
-### #is_/same_as :: [Benue_River.personal](/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/Benue_River.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/Benue_River.personal|Benue_River.personal]] 
 
-### #is_/same_as :: [Benue_River.secret](/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/Benue_River.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/Benue_River.secret|Benue_River.secret]] 
 

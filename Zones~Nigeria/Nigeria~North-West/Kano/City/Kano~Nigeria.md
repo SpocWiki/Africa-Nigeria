@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kano~Nigeria](/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kano/City/Kano~Nigeria.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kano/City/Kano~Nigeria|Kano~Nigeria]] 
 
-### #is_/same_as :: [Kano~Nigeria.public](/_public/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kano/City/Kano~Nigeria.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kano/City/Kano~Nigeria.public|Kano~Nigeria.public]] 
 
-### #is_/same_as :: [Kano~Nigeria.internal](/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kano/City/Kano~Nigeria.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kano/City/Kano~Nigeria.internal|Kano~Nigeria.internal]] 
 
-### #is_/same_as :: [Kano~Nigeria.protect](/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kano/City/Kano~Nigeria.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kano/City/Kano~Nigeria.protect|Kano~Nigeria.protect]] 
 
-### #is_/same_as :: [Kano~Nigeria.private](/_private/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kano/City/Kano~Nigeria.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kano/City/Kano~Nigeria.private|Kano~Nigeria.private]] 
 
-### #is_/same_as :: [Kano~Nigeria.personal](/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kano/City/Kano~Nigeria.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kano/City/Kano~Nigeria.personal|Kano~Nigeria.personal]] 
 
-### #is_/same_as :: [Kano~Nigeria.secret](/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kano/City/Kano~Nigeria.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-West/Kano/City/Kano~Nigeria.secret|Kano~Nigeria.secret]] 
 

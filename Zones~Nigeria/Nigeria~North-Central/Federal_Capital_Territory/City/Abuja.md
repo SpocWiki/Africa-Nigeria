@@ -66,17 +66,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Abuja](/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-Central/Federal_Capital_Territory/City/Abuja.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-Central/Federal_Capital_Territory/City/Abuja|Abuja]] 
 
-### #is_/same_as :: [Abuja.public](/_public/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-Central/Federal_Capital_Territory/City/Abuja.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-Central/Federal_Capital_Territory/City/Abuja.public|Abuja.public]] 
 
-### #is_/same_as :: [Abuja.internal](/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-Central/Federal_Capital_Territory/City/Abuja.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-Central/Federal_Capital_Territory/City/Abuja.internal|Abuja.internal]] 
 
-### #is_/same_as :: [Abuja.protect](/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-Central/Federal_Capital_Territory/City/Abuja.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-Central/Federal_Capital_Territory/City/Abuja.protect|Abuja.protect]] 
 
-### #is_/same_as :: [Abuja.private](/_private/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-Central/Federal_Capital_Territory/City/Abuja.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-Central/Federal_Capital_Territory/City/Abuja.private|Abuja.private]] 
 
-### #is_/same_as :: [Abuja.personal](/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-Central/Federal_Capital_Territory/City/Abuja.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-Central/Federal_Capital_Territory/City/Abuja.personal|Abuja.personal]] 
 
-### #is_/same_as :: [Abuja.secret](/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-Central/Federal_Capital_Territory/City/Abuja.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/Zones~Nigeria/Nigeria~North-Central/Federal_Capital_Territory/City/Abuja.secret|Abuja.secret]] 
 

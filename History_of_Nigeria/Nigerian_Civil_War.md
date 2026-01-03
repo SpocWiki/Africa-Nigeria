@@ -42,3 +42,20 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Biafra%20independent%2
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nigerian%20Civil%20War) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria/History_of_Nigeria/Nigerian_Civil_War|Nigerian_Civil_War]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Nigeria/History_of_Nigeria/Nigerian_Civil_War.public|Nigerian_Civil_War.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Nigeria/History_of_Nigeria/Nigerian_Civil_War.internal|Nigerian_Civil_War.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Nigeria/History_of_Nigeria/Nigerian_Civil_War.protect|Nigerian_Civil_War.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Nigeria/History_of_Nigeria/Nigerian_Civil_War.private|Nigerian_Civil_War.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Nigeria/History_of_Nigeria/Nigerian_Civil_War.personal|Nigerian_Civil_War.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Nigeria/History_of_Nigeria/Nigerian_Civil_War.secret|Nigerian_Civil_War.secret]] 
+
