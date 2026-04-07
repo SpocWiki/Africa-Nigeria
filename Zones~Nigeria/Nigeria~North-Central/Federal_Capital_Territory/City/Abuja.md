@@ -26,7 +26,7 @@ Country :: [[Nigeria]]
 [Population::] 
 [Unknown::32] 
 
-#is_/same_as :: [[../../../../../../../../../WikiData/WD~Abuja,3787]] 
+#is_/same_as :: [[../../../../../../../../../WikiData/WD~Abuja,3787|WD~Abuja,3787]] 
 
 
 ```leaflet

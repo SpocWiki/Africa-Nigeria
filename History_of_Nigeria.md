@@ -2,9 +2,9 @@
 aliases:
   - history of Nigeria
 has_id_wikidata: Q1435215
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-facet_of: "[[_Standards/WikiData/WD~Nigeria,1033]]"
-country: "[[_Standards/WikiData/WD~Nigeria,1033]]"
+instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377|WD~history_of_a_country_or_state,17544377]]"
+facet_of: "[[_Standards/WikiData/WD~Nigeria,1033|WD~Nigeria,1033]]"
+country: "[[_Standards/WikiData/WD~Nigeria,1033|WD~Nigeria,1033]]"
 Dewey_Decimal_Classification: "966.9"
 locator_map_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/WestAfrica1625.png

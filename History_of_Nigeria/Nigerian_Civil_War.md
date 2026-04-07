@@ -5,8 +5,8 @@ aliases:
   - Biafra War
   - Nigerian Civil War
 has_id_wikidata: Q829875
-location: "[[_Standards/WikiData/WD~Nigeria,1033]]"
-instance_of: "[[_Standards/WikiData/WD~civil_war,8465]]"
+location: "[[_Standards/WikiData/WD~Nigeria,1033|WD~Nigeria,1033]]"
+instance_of: "[[_Standards/WikiData/WD~civil_war,8465|WD~civil_war,8465]]"
 end_time: 1970-01-15T00:00:00Z
 start_time: 1967-07-06T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Biafra%20independent%20state%20map-en.svg

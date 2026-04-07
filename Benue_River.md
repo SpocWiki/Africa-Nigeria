@@ -5,32 +5,32 @@ aliases:
   - Chadda River
   - Tchadda
 has_id_wikidata: Q204806
-used_by: "[[_Standards/WikiData/WD~farm,131596]]"
+used_by: "[[_Standards/WikiData/WD~farm,131596|WD~farm,131596]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~watercourse,355304]]"
-  - "[[_Standards/WikiData/WD~river,4022]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Kogi_State,387745]]"
-origin_of_the_watercourse: "[[_Standards/WikiData/WD~Adamawa_Plateau,482274]]"
+  - "[[_Standards/WikiData/WD~watercourse,355304|WD~watercourse,355304]]"
+  - "[[_Standards/WikiData/WD~river,4022|WD~river,4022]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Kogi_State,387745|WD~Kogi_State,387745]]"
+origin_of_the_watercourse: "[[_Standards/WikiData/WD~Adamawa_Plateau,482274|WD~Adamawa_Plateau,482274]]"
 tributary:
-  - "[[_Standards/WikiData/WD~Mayo_Kébi,600795]]"
-  - "[[_Standards/WikiData/WD~Donga_River,1115167]]"
-  - "[[_Standards/WikiData/WD~Katsina_Ala_River,3194219]]"
-  - "[[_Standards/WikiData/WD~Gongola_River,4786963]]"
-  - "[[_Standards/WikiData/WD~Ankwe_river,108102082]]"
-  - "[[_Standards/WikiData/WD~Q108307601,108307601]]"
+  - "[[_Standards/WikiData/WD~Mayo_Kébi,600795|WD~Mayo_Kébi,600795]]"
+  - "[[_Standards/WikiData/WD~Donga_River,1115167|WD~Donga_River,1115167]]"
+  - "[[_Standards/WikiData/WD~Katsina_Ala_River,3194219|WD~Katsina_Ala_River,3194219]]"
+  - "[[_Standards/WikiData/WD~Gongola_River,4786963|WD~Gongola_River,4786963]]"
+  - "[[_Standards/WikiData/WD~Ankwe_river,108102082|WD~Ankwe_river,108102082]]"
+  - "[[_Standards/WikiData/WD~Q108307601,108307601|WD~Q108307601,108307601]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-lake_on_watercourse: "[[_Standards/WikiData/WD~Lagdo_Reservoir,1375368]]"
-drainage_basin: "[[_Standards/WikiData/WD~Niger_basin,2887545]]"
-created_by_dam: "[[_Standards/WikiData/WD~Q11982932,11982932]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+lake_on_watercourse: "[[_Standards/WikiData/WD~Lagdo_Reservoir,1375368|WD~Lagdo_Reservoir,1375368]]"
+drainage_basin: "[[_Standards/WikiData/WD~Niger_basin,2887545|WD~Niger_basin,2887545]]"
+created_by_dam: "[[_Standards/WikiData/WD~Q11982932,11982932|WD~Q11982932,11982932]]"
 coordinate_location: Point(6.766667 7.783333)
 country:
-  - "[[_Standards/WikiData/WD~Cameroon,1009]]"
-  - "[[_Standards/WikiData/WD~Nigeria,1033]]"
-mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Niger_River,3542]]"
-continent: "[[_Standards/WikiData/WD~Africa,15]]"
+  - "[[_Standards/WikiData/WD~Cameroon,1009|WD~Cameroon,1009]]"
+  - "[[_Standards/WikiData/WD~Nigeria,1033|WD~Nigeria,1033]]"
+mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Niger_River,3542|WD~Niger_River,3542]]"
+continent: "[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]"
 length: 1370
 discharge: 3170
 watershed_area: 441000
