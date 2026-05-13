@@ -41,7 +41,7 @@ geojsonFolder: ./Niger,Nigeria/
 markerFolder: ./Niger,Nigeria/
 coordinates: [[Niger,Nigeria]] 
 markerFile: [[Niger,Nigeria]] 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

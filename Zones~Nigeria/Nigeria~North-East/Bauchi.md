@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Bauchi/
 markerFolder: ./Bauchi/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

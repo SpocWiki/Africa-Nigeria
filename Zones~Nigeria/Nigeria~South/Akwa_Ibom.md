@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Akwa_Ibom/
 markerFolder: ./Akwa_Ibom/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

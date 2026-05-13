@@ -123,7 +123,7 @@ geojsonFolder: ./Lagos,City/
 markerFolder: ./Lagos,City/
 coordinates: [[Lagos,City]] 
 markerFile: [[Lagos,City]] 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

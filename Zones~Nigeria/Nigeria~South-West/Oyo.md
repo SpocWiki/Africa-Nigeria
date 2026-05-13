@@ -34,7 +34,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Oyo/
 markerFolder: ./Oyo/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -61,7 +61,7 @@ maxZoom: 18
 >
 > Abuja is Nigeria's administrative and political capital. It is also a key capital on the African continent due to Nigeria's geopolitical influence in regional affairs. Abuja is also a conference centre and hosts various meetings annually, such as the 2003 Commonwealth Heads of Government meeting and the 2014 World Economic Forum (Africa) meetings. Abuja joined the UNESCO Global Network of Learning Cities in 2016.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Abuja)
+> [Wikipedia](https://en.wikipedia.org/wiki/Abuja) 
 
 
 ## Confidential Links & Embeds: 
