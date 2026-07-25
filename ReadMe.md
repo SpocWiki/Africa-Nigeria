@@ -27,7 +27,7 @@ dv_UNTERM_Chinese_Formal: 尼日利亚联邦共和国
 dv_UNTERM_French_Formal: la République fédérale du Nigéria
 dv_UNTERM_Russian: Нигерия
 dv_UNTERM_Russian_Formal: Федеративная Республика Нигерия
-dv_Region_Name: '[[../../Africa|Africa]]'
+dv_Region_Name: '[[../../../Africa|Africa]]'
 dv_Intermediate_Region_Name: '[[Western Africa]]'
 dv_Sub-region_Name: '[[Sub-Saharan Africa]]'
 dv_Region: 2
@@ -53,7 +53,7 @@ dv_ISO2: NG
 dv_ISO3: NGA
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Nigeria,1033|WD~Nigeria,1033]]'
+  - '[[../../../../../WikiData/WD~Nigeria,1033|WD~Nigeria,1033]]'
   - '[[/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria|Nigeria]]'
   - '[[/_public/Earth/Continent/Africa/Africa~Central/Nigeria.public|Nigeria.public]]'
   - '[[/_internal/Earth/Continent/Africa/Africa~Central/Nigeria.internal|Nigeria.internal]]'
@@ -379,17 +379,17 @@ dv_has_:
 dv_has_name_de: Nigeria
 dv_Area-Total: 923768
 dv_Area-Land: 910770
-dv_has_place_continent: '[[../../Africa|Africa]]'
+dv_has_place_continent: '[[../../../Africa|Africa]]'
 dv_VehicleCode: NGR
 dv_Capital: '[[Abuja]]'
 dv_Alcohol-l: 12.3
 dv_Language-Id: 499
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 6.46778
 dv_has_place_latitude: 9.17222
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Nigeria,1033|WD~Nigeria,1033]]'
+- '[[../../../../../WikiData/WD~Nigeria,1033|WD~Nigeria,1033]]'
 - '[[/_Standards/Earth/Continent/Africa/Africa~Central/Nigeria|Nigeria]]'
 - '[[/_public/Earth/Continent/Africa/Africa~Central/Nigeria.public|Nigeria.public]]'
 - '[[/_internal/Earth/Continent/Africa/Africa~Central/Nigeria.internal|Nigeria.internal]]'
@@ -1149,7 +1149,7 @@ instance_of:
 basic_form_of_government: '[[/_Standards/WikiData/WD~federal_republic,512187|WD~federal_republic,512187]]'
 geography_of_topic: '[[/_Standards/WikiData/WD~geography_of_Nigeria,595104|WD~geography_of_Nigeria,595104]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - "[[/_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
 highest_point: '[[/_Standards/WikiData/WD~Chappal_Waddi,976055|WD~Chappal_Waddi,976055]]'
 economy_of_topic: '[[/_Standards/WikiData/WD~economy_of_Nigeria,1140374|WD~economy_of_Nigeria,1140374]]'
@@ -1516,7 +1516,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Nigeria/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map 
 
@@ -1536,7 +1536,7 @@ defaultZoom: 5
 
 ```leaflet
 id: Nigeria_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1564,7 +1564,7 @@ Capital = `=this.dv_Capital`
 
 ![[Coat_of_arms_of_Nigeria.svg|350]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Nigeria.mp3|Anthem-Nigeria.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Nigeria.mp3|Anthem-Nigeria.mp3]]
 
 ![[Flag_of_Nigeria.svg|350]]
 
